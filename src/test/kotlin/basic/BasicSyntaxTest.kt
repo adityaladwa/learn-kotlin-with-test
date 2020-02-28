@@ -1,9 +1,11 @@
+package basic
+
 import org.junit.Test
 import kotlin.math.max
 import kotlin.test.assertEquals
 import kotlin.test.assertNotEquals
 
-class BasicTest {
+class BasicSyntaxTest {
 
     @Test
     fun `Sum of a and b`() {

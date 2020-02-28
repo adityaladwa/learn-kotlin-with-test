@@ -1,3 +1,5 @@
+package basic
+
 val iCantChange = 20
 var iCanChange = 10
 
